@@ -169,4 +169,4 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
- EXTRAMOD_TXT = bool(environ.get(' EXTRAMOD_TXT', True))
+ # EXTRAMOD_TXT = bool(environ.get(' EXTRAMOD_TXT', True))
