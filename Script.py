@@ -461,27 +461,23 @@ BOT WORKING PROPERLY"""
     ENGLISH_INFO = """
 Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
+➥ ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ 💰 ꜰʀᴏᴍ ᴏᴜʀ ʙᴏᴛ.💸
 
- Now you can earn money on Telegram too.
+ 📌 :- ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
- You must have 1 group to earn money by telegram.
- If you have a group, you can earn money by adding our bot to your group.
+[ ꜱᴛᴇᴘ1 ]👉ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ.
 
- The more members you have in your group, the higher your income will be.
+[ ꜱᴛᴇᴘ 2 ]👉 ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ vnshortener.com [ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛᴏᴏ.]
 
- How and what to do
+[ ꜱᴛᴇᴘ 3 ]👉 ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴅᴀꜱʜʙᴏᴀʀᴅ.
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+[ ꜱᴛᴇᴘ 4 ] 👉ꜱᴇɴᴅ ʏᴏᴜʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ɪɴ ᴛʜᴇ ɢɪᴠᴇɴ ꜰᴏʀᴍᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 👇.
 
- Step 2: Add your website and API
+ Add a video :-
+ 
+👇 How to add 👇
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
-
- Add a video
-
- 👇 How to add 👇
-
- Exp: /set_tutorial video link
+Exp: /set_tutorial video link
 
 Also your tutorial will be Added Your Group..."""
 
