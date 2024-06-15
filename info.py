@@ -34,7 +34,7 @@ PICS = (environ.get('PICS', ['https://graph.org/file/e7a03028d45ebe638f6a0.jpg',
                              "https://telegra.ph/file/3061bc10a5b4b86603192.jpg",
                              "https://telegra.ph/file/cf2c6654a0c683166067a.jpg",
                              "https://telegra.ph/file/76a3a662af585f76bc2d4.jpg"
-                            ])).split() #SAMPLE PIC
+                            ]))#SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
