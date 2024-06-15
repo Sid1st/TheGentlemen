@@ -5,6 +5,8 @@
 
 import re
 from os import environ
+import random
+from pyrogram import InputMediaPhoto
 from Script import script 
 
 id_pattern = re.compile(r'^.\d+$')
@@ -24,7 +26,14 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://graph.org/file/e7a03028d45ebe638f6a0.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', ['https://graph.org/file/e7a03028d45ebe638f6a0.jpg',
+                             "https://telegra.ph/file/14656aaf3a42610b27f3b.jpg",
+                             "https://telegra.ph/file/39ddbd02ab402052c5c4d.jpg",
+                             "https://telegra.ph/file/21281842d37ba3e4def38.jpg",
+                             "https://telegra.ph/file/3061bc10a5b4b86603192.jpg",
+                             "https://telegra.ph/file/cf2c6654a0c683166067a.jpg",
+                             "https://telegra.ph/file/76a3a662af585f76bc2d4.jpg"
+                            ])).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
