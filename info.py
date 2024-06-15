@@ -6,7 +6,8 @@
 import re
 from os import environ
 import random
-from pyrogram import InputMediaPhoto
+from pyrogram import Client
+from pyrogram.types import InputMediaPhoto
 from Script import script 
 
 id_pattern = re.compile(r'^.\d+$')
