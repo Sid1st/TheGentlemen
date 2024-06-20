@@ -101,17 +101,17 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'upshrink.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'ae458ed77ee3d16f4671173e44518770ccc8f859')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'vnshortener.com')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'e8c8b2a7484967f953fdd7429c1b4c688e836977')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'upshrink.com')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'ae458ed77ee3d16f4671173e44518770ccc8f859')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 
 # Shortlink Info
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'vnshortener.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'e8c8b2a7484967f953fdd7429c1b4c688e836977')
 
