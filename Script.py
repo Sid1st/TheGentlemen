@@ -203,7 +203,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}
+<b>Uploaded by [TG - @MoviesXonee]</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
