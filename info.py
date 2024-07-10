@@ -111,9 +111,9 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'ae458ed77ee3
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 
 # Shortlink Info
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'vnshortener.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'e8c8b2a7484967f953fdd7429c1b4c688e836977')
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '5509f916c4f64489b70910a605b34827e8ad7c95')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
